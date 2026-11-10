@@ -1,0 +1,30 @@
+
+Gurobi 12.0.3 (win64, gurobi_cl) logging started Wed Dec 17 00:35:04 2025
+
+Set parameter Username
+Set parameter LicenseID to value 2755872
+Set parameter TimeLimit to value 3600
+Set parameter LogFile to value "gurobi.log"
+Using license file C:\Users\almei\gurobi.lic 
+
+Gurobi Optimizer version 12.0.3 build v12.0.3rc0 (win64 - Windows 11+.0 (26200.2))
+Copyright (c) 2025, Gurobi Optimization, LLC
+
+Read LP format model from file modelo.lp
+Reading time = 0.03 seconds
+obj: 14401 rows, 5600 columns, 34400 nonzeros
+
+Using Gurobi shared library C:\gurobi1203\win64\bin\gurobi120.dll
+
+CPU model: 12th Gen Intel(R) Core(TM) i5-12450H, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 12 logical processors, using up to 12 threads
+
+Non-default parameters:
+TimeLimit  3600
+
+
+Unable to retrieve attribute 'X'
+
+
+Error 10010: Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+

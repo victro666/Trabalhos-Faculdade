@@ -1,0 +1,26 @@
+Instancia;LB_Cplex;UB_Cplex;GAP_Cplex;Tempo_Cplex;LB_Gurobi;UB_Gurobi;GAP_Gurobi;Tempo_Gurobi
+instancia: 01_id_101_objs_500_size_1500_sets_3000_maxNumConflicts_2_maxCost_15_seme_2097.txt
+cplex_lb: 2626.00; cplex_ub: 2626.00; cplex_gap: 0.0000; cplex_tempo: 686.0160
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.0560
+----------------------------------
+instancia: 01_id_106_objs_700_size_2100_sets_4200_maxNumConflicts_2_maxCost_15_seme_1107.txt
+cplex_lb: 3585.00; cplex_ub: 3585.00; cplex_gap: 0.0000; cplex_tempo: 3610.3160
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.1970
+----------------------------------
+instancia: 01_id_111_objs_800_size_2400_sets_4800_maxNumConflicts_2_maxCost_15_seme_1719.txt
+cplex_lb: 4171.00; cplex_ub: 4171.00; cplex_gap: 0.0000; cplex_tempo: 3600.1830
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.4370
+----------------------------------
+instancia: 02_id_102_objs_500_size_1500_sets_3000_maxNumConflicts_2_maxCost_15_seme_1518.txt
+cplex_lb: 2660.00; cplex_ub: 2660.00; cplex_gap: 0.0000; cplex_tempo: 497.9780
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.0960
+----------------------------------
+instancia: 02_id_107_objs_700_size_2100_sets_4200_maxNumConflicts_2_maxCost_15_seme_2739.txt
+cplex_lb: 3412.00; cplex_ub: 3412.00; cplex_gap: 0.0000; cplex_tempo: 3604.9210
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.1590
+----------------------------------
+instancia: 02_id_112_objs_800_size_2400_sets_4800_maxNumConflicts_2_maxCost_15_seme_1579.txt
+cplex_lb: 4063.00; cplex_ub: 4063.00; cplex_gap: 0.0000; cplex_tempo: 3787.7540
+gurobi_lb: ERRO; gurobi_ub: ERRO; gurobi_gap: ERRO; gurobi_tempo: 0.1090
+----------------------------------
+MEDIA;3419.50;3419.50;0.0000%;2631.1947;0.00;0.00;0.0000%;0.0000

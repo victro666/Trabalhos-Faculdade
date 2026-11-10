@@ -1,0 +1,25 @@
+Description of the best-so-far configuration:
+   .ID. pop  elite mutant    rho .PARENT.
+32   32 595 0.1001 0.0719 0.6015       22
+
+# 2026-02-08 18:07:15 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   pop  elite mutant    rho
+32 595 0.1001 0.0719 0.6015
+22 569 0.1185 0.0911 0.6235
+14 543 0.2634 0.1072 0.7628
+13 541 0.1786 0.1325 0.6114
+# Total CPU user time: 0.99, CPU sys time: 0.46, Wall-clock time: 1892
+# Best configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   pop  elite mutant    rho
+32 595 0.1001 0.0719 0.6015
+22 569 0.1185 0.0911 0.6235
+14 543 0.2634 0.1072 0.7628
+13 541 0.1786 0.1325 0.6114
+# Best configurations as commandlines (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+32 --pop 595 --elite 0.1001 --mutant 0.0719 --rho 0.6015
+22 --pop 569 --elite 0.1185 --mutant 0.0911 --rho 0.6235
+14 --pop 543 --elite 0.2634 --mutant 0.1072 --rho 0.7628
+13 --pop 541 --elite 0.1786 --mutant 0.1325 --rho 0.6114
+
+executar pras instancias 1,2 e 3
+.\trab2.exe .\01_instancia_pequena.txt --pop 595 --elite 0.1001 --mutant 0.0719 --rho 0.6015 --time 300

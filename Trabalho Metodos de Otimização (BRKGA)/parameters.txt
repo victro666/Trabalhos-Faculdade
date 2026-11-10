@@ -1,0 +1,4 @@
+pop       "--pop "     i     (500, 2000)
+elite     "--elite "   r     (0.10, 0.30)
+mutant    "--mutant "  r     (0.05, 0.25)
+rho       "--rho "     r     (0.50, 0.80)

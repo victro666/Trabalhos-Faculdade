@@ -1,0 +1,4 @@
+Instancia: 02_instancia_media.txt
+Melhor FO: 3331.00; Media FO: 3298.67; Desvio: 0.9707
+Tempo Medio: 300.09; Melhor Tempo: 300.13
+

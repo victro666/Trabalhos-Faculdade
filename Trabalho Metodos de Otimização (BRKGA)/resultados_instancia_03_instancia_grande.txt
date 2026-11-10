@@ -1,0 +1,4 @@
+Instancia: 03_instancia_grande.txt
+Melhor FO: 3574.00; Media FO: 3555.00; Desvio: 0.5316
+Tempo Medio: 300.14; Melhor Tempo: 300.10
+

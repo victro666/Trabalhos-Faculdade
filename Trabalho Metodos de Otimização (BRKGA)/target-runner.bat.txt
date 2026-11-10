@@ -1,0 +1,19 @@
+@echo off
+
+set EXE=trab2.exe
+
+set CONFIG_ID=%1
+set INSTANCE_ID=%2
+set SEED=%3
+set INSTANCE=%4
+
+shift
+shift
+shift
+shift
+
+set PARAMS=%1 %2 %3 %4 %5 %6 %7 %8 %9
+
+set TIME_LIMIT=20
+
+%EXE% %INSTANCE% %PARAMS% --seed %SEED% --time %TIME_LIMIT% --irace

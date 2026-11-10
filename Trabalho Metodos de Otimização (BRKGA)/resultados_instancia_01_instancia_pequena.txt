@@ -1,0 +1,4 @@
+Instancia: 01_instancia_pequena.txt
+Melhor FO: 2354.00; Media FO: 2333.67; Desvio: 0.8638
+Tempo Medio: 300.07; Melhor Tempo: 300.04
+
